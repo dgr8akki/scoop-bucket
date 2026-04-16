@@ -1,0 +1,18 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dgr8akki/nano-ffmpeg/releases/download/v0.3.0/nano-ffmpeg_0.3.0_windows_amd64.zip",
+            "bin": [
+                "nano-ffmpeg.exe"
+            ],
+            "hash": "0389bf654b9526326644d625ab8228b8a40b7b8e90dfc322a416c78fc6f366e7"
+        }
+    },
+    "homepage": "https://github.com/dgr8akki/nano-ffmpeg",
+    "license": "MIT",
+    "description": "A beautiful terminal UI for ffmpeg",
+    "depends": [
+        "extras/ffmpeg"
+    ]
+}
