@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dgr8akki/nano-ffmpeg/releases/download/v0.5.0/nano-ffmpeg_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/dgr8akki/nano-ffmpeg/releases/download/v0.5.1/nano-ffmpeg_0.5.1_windows_amd64.zip",
             "bin": [
                 "nano-ffmpeg.exe"
             ],
-            "hash": "bf1fdf92a48b897d9a4c5d175ce64df31d06743c3a3a22eb2881859dc946e2f4"
+            "hash": "528f46521cea37bb46ff5612207b5a374f785cd316d9b45b5044c036595b867d"
         }
     },
     "homepage": "https://github.com/dgr8akki/nano-ffmpeg",
